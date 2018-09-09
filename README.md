@@ -26,7 +26,10 @@ Feel free to contribute suggesting other projects.
 * www.openEBS.io
 * https://www.spinnaker.io
 
-## Projects that migraterd from monolkithic to microservcices 
+## Projects that migraterd from monolithic to microservces 
 
 Still looking for... 
 
+
+## References
+[1](#https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details)
