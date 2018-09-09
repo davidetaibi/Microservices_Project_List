@@ -1,4 +1,4 @@
-#  A curated List of project that migrated to microservices
+#  A curated list of Open Source projects that migrated from a monolithic to microservices
 
 After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1] and to dozens of colleagues, I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
 
@@ -25,6 +25,7 @@ Feel free to contribute suggesting other projects.
 ## Projects created from scratch with a microservices architectural style
 * www.openEBS.io
 * https://www.spinnaker.io
+* https://github.com/DivanteLtd/open-loyalty
 
 ## Projects that migraterd from monolithic to microservces 
 
