@@ -11,20 +11,20 @@ Feel free to contribute suggesting other projects.
 
 
 ## Demo  Projects, mainly for learning purpose 
-https://github.com/mfornos/awesome-microservices
-https://microservices-demo.github.io
-https://github.com/acmeair/
-https://github.com/kbastani/spring-cloud-microservice-example
-https://github.com/aspnet/MusicStore
-https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
-https://github.com/spring-petclinic
-https://sourceforge.net/projects/dddsample/
-https://github.com/DescartesResearch/TeaStore/wiki
-https://github.com/DivanteLtd/open-loyalty
+* https://github.com/mfornos/awesome-microservices
+* https://microservices-demo.github.io
+* https://github.com/acmeair/
+* https://github.com/kbastani/spring-cloud-microservice-example
+* https://github.com/aspnet/MusicStore
+* https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
+* https://github.com/spring-petclinic
+* https://sourceforge.net/projects/dddsample/
+* https://github.com/DescartesResearch/TeaStore/wiki
+* https://github.com/DivanteLtd/open-loyalty
 
 ## Projects created from scratch with a microservices architectural style
-www.openEBS.io
-https://www.spinnaker.io
+* www.openEBS.io
+* https://www.spinnaker.io
 
 ## Projects that migraterd from monolkithic to microservcices 
 
