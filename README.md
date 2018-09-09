@@ -1,6 +1,6 @@
 #  A curated List of project that migrated to microservices
 
-After several questions opened in Quora, StackExchange, ResearchGate and to dozens of colleagues, I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
+After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1] and to dozens of colleagues, I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
 
 The list could be useful to anyone who need to learn how to develop microservices-based applications or to researchers tha  t want to study how these systems are architected. 
 
@@ -32,4 +32,17 @@ Still looking for...
 
 
 ## References
-[1. https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details](https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details)
+[1. https://www.researchgate.net/post/Do_you_know_any_Open_Source_project_that_migrated_form_a_monolithic_architecture_to_microservices] (https://www.researchgate.net/post/Do_you_know_any_Open_Source_project_that_migrated_form_a_monolithic_architecture_to_microservices)
+
+[2. https://stackoverflow.com/questions/48802787/open-source-projects-that-migrated-to-microservices] (https://stackoverflow.com/questions/48802787/open-source-projects-that-migrated-to-microservices)
+
+[3. https://stackoverflow.com/questions/37711051/example-open-source-microservices-applications] (https://stackoverflow.com/questions/37711051/example-open-source-microservices-applications)
+
+[4. https://www.quora.com/Are-there-any-examples-of-open-source-projects-which-follow-a-microservice-architecture-DevOps-model](https://www.quora.com/Are-there-any-examples-of-open-source-projects-which-follow-a-microservice-architecture-DevOps-model)
+
+[5. https://www.quora.com/Are-there-any-open-source-projects-on-GitHub-for-me-to-learn-building-large-scale-microservices-architecture-and-production-deployment] (https://www.quora.com/Are-there-any-open-source-projects-on-GitHub-for-me-to-learn-building-large-scale-microservices-architecture-and-production-deployment)
+
+[5. https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details](https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details)
+
+
+
