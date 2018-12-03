@@ -26,6 +26,8 @@ Feel free to contribute suggesting other projects.
 * www.openEBS.io
 * https://www.spinnaker.io
 * https://github.com/DivanteLtd/open-loyalty
+* https://github.com/getsentry
+* https://github.com/Staffjoy/v2 (abandoned)
 
 ## Projects that migraterd from monolithic to microservces 
 
