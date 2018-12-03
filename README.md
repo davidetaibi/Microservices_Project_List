@@ -29,7 +29,7 @@ Feel free to contribute suggesting other projects.
 * https://github.com/getsentry
 * https://github.com/Staffjoy/v2 (abandoned)
 
-## Projects that migraterd from monolithic to microservces 
+## Projects that migrated from monolithic to microservces 
 
 Still looking for... 
 
