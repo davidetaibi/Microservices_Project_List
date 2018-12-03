@@ -22,12 +22,12 @@ Feel free to contribute suggesting other projects.
 * https://github.com/DescartesResearch/TeaStore/wiki
 * https://github.com/DivanteLtd/open-loyalty
 
-## Projects created from scratch with a microservices architectural style
-* www.openEBS.io
-* https://www.spinnaker.io
-* https://github.com/DivanteLtd/open-loyalty
-* https://github.com/getsentry
-* https://github.com/Staffjoy/v2 (abandoned)
+## "Industrial" Projects created from scratch with a microservices architectural style
+* OpenEBS www.openEBS.io
+* Spinnaker https://www.spinnaker.io
+* Open-loyalty https://github.com/DivanteLtd/open-loyalty
+* Sentry https://github.com/getsentry
+* Staffjoy https://github.com/Staffjoy/v2 (abandoned)
 
 ## Projects that migrated from monolithic to microservces 
 
