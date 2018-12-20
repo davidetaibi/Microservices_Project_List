@@ -1,6 +1,6 @@
 #  A curated list of Open Source projects that migrated from a monolithic to microservices
 
-After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1] and to dozens of colleagues, I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
+After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1], I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
 
 The list could be useful to anyone who need to learn how to develop microservices-based applications or to researchers tha  t want to study how these systems are architected. 
 
