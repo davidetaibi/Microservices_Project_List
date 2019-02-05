@@ -28,11 +28,10 @@ Feel free to contribute suggesting other projects.
 * Piggy Metrics https://github.com/sqshq/PiggyMetrics
 * Netflix microservice https://github.com/yidongnan/spring-cloud-netflix-example
 * microService https://github.com/bishion/microService
-* Share bike https://goo.gl/i1wehd
-* Lelylan https://goo.gl/ySbY54
+* Share bike https://github.com/JoeCao/qbike
 * E-Commerce App https://goo.gl/y9sqXR
 * Task track support https://goo.gl/chwBTh
-* CAS Microservice https://goo.gl/hqgeWr
+* CAS Microservice https://github.com/ArcanjoQueiroz/cas-microservice-architecture
 * Warehouse microservice https://goo.gl/CtZ9qr
 * Microservices Reference https://goo.gl/VBjGER
 * Vehicle tracking https://goo.gl/HqbqR3
@@ -59,6 +58,7 @@ Feel free to contribute suggesting other projects.
 * Staffjoy https://github.com/Staffjoy/v2 (abandoned)
 * Gizmo (Microservice Toolkit from The New York Times) https://github.com/nytimes/gizmo
 * Genie (Netflix Distributed Big Data Orchestration Service (https://github.com/Netflix/genie)
+* Lelylan - Open Source Internet of Things https://github.com/lelylan
 
 
 ## Projects that migrated from monolithic to microservces 
