@@ -1,4 +1,4 @@
-#  A curated list of Open Source projects that migrated from a monolithic to microservices
+#  A curated list of Open Source projects developed with a microservices architectural style
 
 After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1], I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
 
@@ -8,6 +8,7 @@ The list could be useful to anyone who need to learn how to develop microservice
 I am still  looking for a real legacy project (5-10 years old) where I can study how it evolved from Monolithic to microservices. I think this is a common issue of most of the researchers working on microservices, and if we will manage to find at least one, it could be a very good starting point.
 
 Feel free to contribute suggesting other projects. 
+You can send recommendations for new projects making a pull request on this page, or sending an email to davide [dot] taibi [at] tuni [dot] fi
 
 
 ## Demo/Toy  Projects, mainly for learning purpose 
