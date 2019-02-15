@@ -76,22 +76,23 @@ You can send recommendations for new projects making a pull request on this page
 Still looking for... 
 
 ## Acknowledgements 
-This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[]. I  like to thank all the participants to the discussions and all theauthors of the papers that contributed to populate this list. 
+This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7]. I  like to thank all the participants to the discussions and all theauthors of the papers that contributed to populate this list. 
 
 
 ## References
-1.https://www.researchgate.net/post/Do_you_know_any_Open_Source_project_that_migrated_form_a_monolithic_architecture_to_microservices 
+[1] https://www.researchgate.net/post/Do_you_know_any_Open_Source_project_that_migrated_form_a_monolithic_architecture_to_microservices 
 
-2.https://stackoverflow.com/questions/48802787/open-source-projects-that-migrated-to-microservices
+[2] https://stackoverflow.com/questions/48802787/open-source-projects-that-migrated-to-microservices
 
-3.https://stackoverflow.com/questions/37711051/example-open-source-microservices-applications 
+[3] https://stackoverflow.com/questions/37711051/example-open-source-microservices-applications 
 
-4.https://www.quora.com/Are-there-any-examples-of-open-source-projects-which-follow-a-microservice-architecture-DevOps-model 
+[4] https://www.quora.com/Are-there-any-examples-of-open-source-projects-which-follow-a-microservice-architecture-DevOps-model 
 
-5.https://www.quora.com/Are-there-any-open-source-projects-on-GitHub-for-me-to-learn-building-large-scale-microservices-architecture-and-production-deployment
+[5] https://www.quora.com/Are-there-any-open-source-projects-on-GitHub-for-me-to-learn-building-large-scale-microservices-architecture-and-production-deployment
 
-6.https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details
-7. G Márquez, H Astudillo "Actual Use of Architectural Patterns in Microservices-based Open Source Projects" 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Nara, Japan
+[6] https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details
+
+[7] G Márquez, H Astudillo "Actual Use of Architectural Patterns in Microservices-based Open Source Projects" 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Nara, Japan
 
 
 
