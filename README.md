@@ -67,7 +67,6 @@ You can send recommendations for new projects making a pull request to this page
 * Gizmo (Microservice Toolkit from The New York Times) https://github.com/nytimes/gizmo
 * Genie (Netflix Distributed Big Data Orchestration Service (https://github.com/Netflix/genie)
 * Lelylan - Open Source Internet of Things https://github.com/lelylan
-* Open Loyalty: https://github.com/DivanteLtd/open-loyalty
 
 ## Projects that migrated from monolithic to microservces 
 
