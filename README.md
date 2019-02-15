@@ -1,14 +1,12 @@
 #  A curated list of Open Source projects developed with a microservices architectural style
 
 After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1], I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style. 
+In our previous work, we investigated several microservices issues, including migration issues[8], architectural patterns[9],  and bad smells or antipatterns[10]. The availability of a common data-set of projects implemented with a microservice architectural style, would be very useful to validate our results, but also to anyone who need to learn how to develop microservices-based applications or to researchers that want to study how these systems are architected. 
 
-The list could be useful to anyone who need to learn how to develop microservices-based applications or to researchers tha  t want to study how these systems are architected. 
-
-
-I am still  looking for a real legacy project (5-10 years old) where I can study how it evolved from Monolithic to microservices. I think this is a common issue of most of the researchers working on microservices, and if we will manage to find at least one, it could be a very good starting point.
+I am still  looking for mature industrial projects (5-10 years old) that migrated from Monolithic to microservices. I think this is a common issue of most of the researchers working on microservices, and if we will manage to find at least one, it could be a very good starting point.
 
 Feel free to contribute suggesting other projects. 
-You can send recommendations for new projects making a pull request on this page, or sending an email to davide [dot] taibi [at] tuni [dot] fi
+You can send recommendations for new projects making a pull request to this page, or sending an email to davide [dot] taibi [at] tuni [dot] fi
 
 
 ## Demo/Toy  Projects, mainly for learning purpose 
@@ -93,6 +91,12 @@ This list is based on the feedbacks received in the different platforms [1][2][3
 [6] https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details
 
 [7] G Márquez, H Astudillo "Actual Use of Architectural Patterns in Microservices-based Open Source Projects" 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Nara, Japan
+
+[8] D. Taibi, V. Lenarduzzi, and C. Pahl “Architectural Patterns for Microservices: A Systematic Mapping Study” in 8th International Conference on Cloud Computing and Services Science, CLOSER , 2018. [Download](https://www.researchgate.net/profile/Claus_Pahl/publication/323960272_Architectural_Patterns_for_Microservices_A_Systematic_Mapping_Study/links/5ab4e801a6fdcc46d3b27eb1/Architectural-Patterns-for-Microservices-A-Systematic-Mapping-Study.pdf?_sg%5B0%5D=oPIH2y43ypGIbQC8ojw7-unAVok8BYbF4VLBz74_lcDGA0ScUNMhpK5W6-McEDl9rNv05gWuphHT1XqyF_L_yg.UK0FIUQv_mOjZdgUyZpEtcGcrWy5437aARRs5MUq1XTp2y1MkVlJ4p0C9Bb9bpsxrjogCARAS1x0Qiz6jqS88w&_sg%5B1%5D=Aax2Z8__RvjCVRm6Y57N4jZFTUUIY8qodMpLj4YvC892T6gBYuU4_DubBSuk2eJiEurZAZ1kOSrW6RoKnSP07B6914M72_ylDyjqJ9d4uFIs.UK0FIUQv_mOjZdgUyZpEtcGcrWy5437aARRs5MUq1XTp2y1MkVlJ4p0C9Bb9bpsxrjogCARAS1x0Qiz6jqS88w&_iepl=)
+
+[9] D. Taibi and V. Lenarduzzi “On the Definition of Microservice Bad Smells”, IEEE Software , vol. 35, no. 3, 2018.
+
+[10] D. Taibi, V. Lenarduzzi, and Pahl, C. “Processes, Motivations and Issues for Migrating to Microservices Architectures: An Empirical Investigation”, IEEE Cloud Computing Journal, vol. 4, no. 5, 2017.
 
 
 
