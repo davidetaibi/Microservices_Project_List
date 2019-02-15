@@ -12,42 +12,51 @@ You can send recommendations for new projects making a pull request on this page
 
 
 ## Demo/Toy  Projects, mainly for learning purpose 
-* https://github.com/mfornos/awesome-microservices
-* https://microservices-demo.github.io
-* https://github.com/acmeair/
-* https://github.com/kbastani/spring-cloud-microservice-example
-* https://github.com/aspnet/MusicStore
-* https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
-* https://github.com/spring-petclinic
-* https://sourceforge.net/projects/dddsample/
-* https://github.com/DescartesResearch/TeaStore/wiki
-* https://github.com/DivanteLtd/open-loyalty
-* Graph Processing https://github.com/kbastani/spring-boot-graph-processing-example
-* Movie recommendation https://github.com/mdeket/spring-cloud-movie-recommendation
-* Socks Shop https://github.com/microservices-demo/microservices-demo
-* Microservices book https://github.com/ewolff/microservice
-* Piggy Metrics https://github.com/sqshq/PiggyMetrics
-* Netflix microservice https://github.com/yidongnan/spring-cloud-netflix-example
-* microService https://github.com/bishion/microService
-* Share bike https://github.com/JoeCao/qbike
-* E-Commerce App https://goo.gl/y9sqXR
-* Task track support https://goo.gl/chwBTh
-* CAS Microservice https://github.com/ArcanjoQueiroz/cas-microservice-architecture
-* Warehouse microservice https://goo.gl/CtZ9qr
-* Microservices Reference https://goo.gl/VBjGER
-* Vehicle tracking https://goo.gl/HqbqR3
-* EnterprisePlanner https://goo.gl/wjzoYd
-* Micro company https://goo.gl/MmbQCv
-* Freddy’s bbq joint https://goo.gl/69LW7h
-* Photo uploader https://goo.gl/3SHrdZ
-* Delivery system https://goo.gl/1oZ67r
-* Service Commerce https://goo.gl/KRP8vq
-* Kenzan Song Library https://goo.gl/iCxaJE
+* ACME Air: https://github.com/acmeair/
+* Awesome Microservices https://github.com/mfornos/awesome-microservices
 * Blog post https://goo.gl/18RYyK
-* Tap-And-Eat https://goo.gl/JmLoAp
-* WeText https://goo.gl/GfYtVd
-* Pitstop https://goo.gl/47neif
-* SiteWhere https://goo.gl/VD1onH
+* CAS Microservice https://github.com/ArcanjoQueiroz/cas-microservice-architecture
+* Cinema Administration: https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b
+* DDD Sample Application: https://sourceforge.net/projects/dddsample 
+* Delivery system https://goo.gl/1oZ67r
+* E-Commerce App https://goo.gl/y9sqXR
+* EnterprisePlanner https://goo.gl/wjzoYd
+* eShop on Containers: https://github.com/dotnet-architecture/eShopOnContainers
+* Freddy’s bbq joint https://goo.gl/69LW7h
+* Generic Online Shop (service-based patterns experiment): https://github.com/xJREB/research-modifiability-pattern-experiment
+* Graph Processing https://github.com/kbastani/spring-boot-graph-processing-example
+* Kenzan Song Library https://goo.gl/iCxaJE
+* Micro company https://goo.gl/MmbQCv
+* Microblog: https://github.com/senecajs/ramanujan
+* microService https://github.com/bishion/microService
+* Microservices book https://github.com/ewolff/microservice
+* Microservices Reference https://goo.gl/VBjGER
+* Movie recommendation https://github.com/mdeket/spring-cloud-movie-recommendation
+* Music Store: https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
+* Netflix microservice https://github.com/yidongnan/spring-cloud-netflix-example
+* Photo uploader https://goo.gl/3SHrdZ
+* Piggy Metrics https://github.com/sqshq/PiggyMetrics
+* Pitstop https://github.com/EdwinVW/pitstop
+* Robot Shop: https://github.com/instana/robot-shop
+* Service Commerce https://goo.gl/KRP8vq
+* Share bike https://github.com/JoeCao/qbike
+* SiteWhere https://github.com/sitewhere/sitewhere
+* Socks Shop https://github.com/microservices-demo/microservices-demo
+* Spring Cloud Microservice Example: https://github.com/kbastani/spring-cloud-microservice-example
+* Spring Petclinic Migration to AWS: https://github.com/aws-samples/amazon-ecs-java-microservices
+* Spring Petclinic: https://github.com/spring-petclinic
+* SpringBoot Microservices: https://github.com/oktadeveloper/spring-boot-microservices-example
+* Music Store: https://github.com/aspnet/MusicStore
+* Steeltoe Music Store: https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
+* Tap-And-Eat https://github.com/jferrater/Tap-And-Eat-MicroServices
+* Task track support https://goo.gl/chwBTh
+* Tea Store: https://github.com/DescartesResearch/TeaStore/wiki
+* Vehicle tracking https://goo.gl/HqbqR3
+* Warehouse microservice https://goo.gl/CtZ9qr
+* WeText https://github.com/daxnet/we-text
+ 
+
+
 
 
 
@@ -60,11 +69,14 @@ You can send recommendations for new projects making a pull request on this page
 * Gizmo (Microservice Toolkit from The New York Times) https://github.com/nytimes/gizmo
 * Genie (Netflix Distributed Big Data Orchestration Service (https://github.com/Netflix/genie)
 * Lelylan - Open Source Internet of Things https://github.com/lelylan
-
+* Open Loyalty: https://github.com/DivanteLtd/open-loyalty
 
 ## Projects that migrated from monolithic to microservces 
 
 Still looking for... 
+
+## Acknowledgements 
+This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[]. I  like to thank all the participants to the discussions and all theauthors of the papers that contributed to populate this list. 
 
 
 ## References
@@ -79,6 +91,9 @@ Still looking for...
 5.https://www.quora.com/Are-there-any-open-source-projects-on-GitHub-for-me-to-learn-building-large-scale-microservices-architecture-and-production-deployment
 
 6.https://www.quora.com/Can-you-provide-an-example-of-a-system-designed-with-a-microservice-architecture-Preferably-open-source-so-that-I-can-see-the-details
+7. G Márquez, H Astudillo "Actual Use of Architectural Patterns in Microservices-based Open Source Projects" 25th Asia-Pacific Software Engineering Conference (APSEC 2018). Nara, Japan
+
+
 
 
 
