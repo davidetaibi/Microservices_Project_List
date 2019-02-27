@@ -5,14 +5,17 @@ In our previous work, we investigated several microservices issues, including mi
 
 
 The list could be useful to anyone who need to learn how to develop microservices-based applications or to researchers tha  t want to study how these systems are architected. 
+If you are interested to the Architecture related principles, tools and technologies, please consider this github page https://github.com/mfornos/awesome-microservices
 
 I am still  looking for a real legacy project (5-10 years old) where I can study how it evolved from Monolithic to microservices. I think this is a common issue of most of the researchers working on microservices, and if we will manage to find at least one, it could be a very good starting point.
+
+
 
 
 Feel free to contribute suggesting other projects. 
 You can send recommendations for new projects making a pull request to this page, or sending an email to davide [dot] taibi [at] tuni [dot] fi
 
-List of Microservice Architecture related principles and technologies https://github.com/mfornos/awesome-microservices
+
 
 ## Demo/Toy  Projects, mainly for learning purpose
 
