@@ -35,6 +35,8 @@ You can send recommendations for new projects making a pull request to this page
 * Domain-Driven Design sample application https://sourceforge.net/projects/dddsample
 * E-Commerce App https://github.com/venkataravuri/e-commerce-microservices-sample
 
+* Eberhard Wolff's 11 Demo Systems https://ewolff.com/microservices-demos.html
+
 * EnterprisePlanner (ASP.NET) https://github.com/gfawcett22/EnterprisePlanner
 
 * eShop on Containers (.NET) https://github.com/dotnet-architecture/eShopOnContainers
@@ -46,6 +48,7 @@ You can send recommendations for new projects making a pull request to this page
 * Graph Processing https://github.com/kbastani/spring-boot-graph-processing-example
 
 * Kenzan Song Library https://goo.gl/iCxaJE
+* Lakeside Mutual Insurance Company (API patterns example) https://github.com/Microservice-API-Patterns/LakesideMutual
 * Micro company (Spring Cloud, Axon) https://github.com/idugalic/micro-company
 
 
