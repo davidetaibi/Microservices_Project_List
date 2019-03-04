@@ -114,6 +114,8 @@ You can send recommendations for new projects making a pull request to this page
 * Genie (Netflix Distributed Big Data Orchestration Service https://github.com/Netflix/genie
 * Lelylan - Open Source Internet of Things https://github.com/lelylan
 * SiteWhere (IoT Application Enablement Platform) https://github.com/sitewhere/sitewhere
+* Magda (A platform built to power a new generation of data portals) https://github.com/magda-io/magda
+* Apollo (configuration management system) https://github.com/ctripcorp/apollo
 
 ## Projects that migrated from monolithic to microservces 
 
