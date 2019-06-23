@@ -102,6 +102,60 @@ You can send recommendations for new projects making a pull request to this page
 * WeText (DDD, CQRS, C#) https://github.com/daxnet/we-text
 * WeText https://github.com/daxnet/we-text
 
+| Name  | Link | Language | Framework |
+| ------------- | ------------- | ------------- | ------------- |
+| ACME Air: | https://github.com/acmeair/ | | |
+| Awesome Microservices | https://github.com/mfornos/awesome-microservices | | |
+| Beer catalog (Spring Boot) | https://github.com/oktadeveloper/spring-boot-microservices-example | | |
+| Blog post (Spring Boot) | https://github.com/fernandoabcampos/spring-netflix-oss-microservices | | |
+| CAS Microservice (Portuguese) | https://github.com/ArcanjoQueiroz/cas-microservice-architecture | | |
+| Cinema Administration: | https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b | | |
+| DDD Sample Application: | https://sourceforge.net/projects/dddsample  | | |
+| Delivery system | https://github.com/matt-slater/delivery-system | | |
+| Domain-Driven Design sample application | https://sourceforge.net/projects/dddsample | | |
+| E-Commerce App | https://github.com/venkataravuri/e-commerce-microservices-sample | | |
+| Eberhard Wolff's 11 Demo Systems | https://ewolff.com/microservices-demos.html | | |
+| EnterprisePlanner (ASP.NET) | https://github.com/gfawcett22/EnterprisePlanner | | |
+| eShop on Containers (.NET) | https://github.com/dotnet-architecture/eShopOnContainers | | |
+| eShop on Containers: | https://github.com/dotnet-architecture/eShopOnContainers | | |
+| Freddy’s bbq joint (Pivotal SSO, Spring Cloud) | https://github.com/william-tran/freddys-bbq | | |
+| Generic Online Shop (service-based patterns experiment) (Java): | https://github.com/xJREB/research-modifiability-pattern-experiment | | |
+| Graph Processing | https://github.com/kbastani/spring-boot-graph-processing-example | | |
+| Kenzan Song Library | https://goo.gl/iCxaJE | | |
+| Lakeside Mutual Insurance Company (API patterns example) | https://github.com/Microservice-API-Patterns/LakesideMutual | | |
+| Micro company (Spring Cloud, Axon) | https://github.com/idugalic/micro-company | | |
+| Microblog: | https://github.com/senecajs/ramanujan | | |
+| microService | https://github.com/bishion/microService | | |
+| Microservices book | https://github.com/ewolff/microservice | | |
+| Microservices Reference for Azure | https://github.com/mspnp/microservices-reference-implementation | | |
+| Microservices with Consul and Eureka (Chinese) | https://github.com/bishion/microService | | |
+| Movie recommendation | https://github.com/mdeket/spring-cloud-movie-recommendation | | |
+| Movie recommendation system (Spring Cloud) | https://github.com/kbastani/spring-cloud-microservice-example | | |
+| Music Store: | https://github.com/aspnet/MusicStore | | |
+| MusicStore (ASP.NET) | https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore | | |
+| Netflix microservices with Spring and Eureka | https://github.com/yidongnan/spring-cloud-netflix-example | | |
+| Photo uploader (NGINX Fabric Model) | https://github.com/nginxinc/mra-ingenious | | |
+| Piggy Metrics | https://github.com/sqshq/PiggyMetrics | | |
+| Pitstop (DDD, CQRS, Event Sourcing) | https://github.com/EdwinVW/pitstop | | |
+| Robot Shop | https://github.com/instana/robot-shop | | |
+| Service Commerce | https://github.com/antonio94js/servicecommerce | | |
+| Share bike (Chinese) | https://github.com/JoeCao/qbike | | |
+| SiteWhere | https://github.com/sitewhere/sitewhere | | |
+| Sock Shop | https://github.com/microservices-demo | | |
+| Socks Shop | https://github.com/microservices-demo/microservices-demo | | |
+| Spring Cloud Microservice Example: | https://github.com/kbastani/spring-cloud-microservice-example | | |
+| Spring PetClinic | https://github.com/spring-petclinic/spring-petclinic-microservices | | |
+| Spring Petclinic Migration to AWS | https://github.com/aws-samples/amazon-ecs-java-microservices | | |
+| Spring Petclinic: | https://github.com/spring-petclinic | | |
+| SpringBoot Microservices: | https://github.com/oktadeveloper/spring-boot-microservices-example | | |
+| Steeltoe Music Store: | https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore | | |
+| Tap-And-Eat (Spring Cloud) | https://github.com/jferrater/Tap-And-Eat-MicroServices | | |
+| Task track support (Chinese) | https://github.com/yun19830206/CloudShop-MicroService-Architecture | | |
+| Tea Store: | https://github.com/DescartesResearch/TeaStore/wiki | | |
+| Vehicle tracking | https://github.com/mohamed-abdo/vehicle-tracking-microservices | | |
+| Warehouse microservice | https://github.com/HieJulia/warehouse-microservice | | |
+| WeText (DDD, CQRS, C#) | https://github.com/daxnet/we-text | | |
+| WeText | https://github.com/daxnet/we-text | | |
 
 ## "Industrial" Projects created from scratch with a microservices architectural style
 
