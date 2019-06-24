@@ -23,7 +23,6 @@ You can send recommendations for new projects making a pull request to this page
 | Name  | Link | Languages | Framework | Number of microservices 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ACME Air: | https://github.com/acmeair/ | Javascript | nodejs | |
-| Awesome Microservices | https://github.com/mfornos/awesome-microservices | Another list of microservices | | |
 | Beer catalog (Spring Boot) | https://github.com/oktadeveloper/spring-boot-microservices-example | Java | Spring | |
 | Blog post (Spring Boot) | https://github.com/fernandoabcampos/spring-netflix-oss-microservices | Java | Spring | |
 | CAS Microservice (Portuguese) | https://github.com/ArcanjoQueiroz/cas-microservice-architecture | Java | Spring | |
