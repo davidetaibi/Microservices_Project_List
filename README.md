@@ -35,6 +35,7 @@ You can send recommendations for new projects making a pull request to this page
 | eShop on Containers (.NET) | https://github.com/dotnet-architecture/eShopOnContainers | C# | .Net | |
 | eShop on Containers: | https://github.com/dotnet-architecture/eShopOnContainers | C# | .Net | |
 | Freddy’s bbq joint (Pivotal SSO, Spring Cloud) | https://github.com/william-tran/freddys-bbq | Java | Spring | |
+| FTGO - Restaurant Management |  https://github.com/microservices-patterns/ftgo-application | Java | Spring (Saga Pattern) | 6+API-Gatweay|
 | Generic Online Shop (service-based patterns experiment) (Java): | https://github.com/xJREB/research-modifiability-pattern-experiment | Java | JavaEE | |
 | Graph Processing | https://github.com/kbastani/spring-boot-graph-processing-example | Java | Spring | |
 | Kenzan Song Library | https://goo.gl/iCxaJE | | | |
