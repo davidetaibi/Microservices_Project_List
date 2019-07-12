@@ -49,7 +49,7 @@ You can send recommendations for new projects making a pull request to this page
 | Movie recommendation | [link](https://github.com/mdeket/spring-cloud-movie-recommendation) | Java | Spring | |
 | Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
 | Music Store: | [link](https://github.com/aspnet/MusicStore) | | | |
-| MusicStore (ASP.NET) | [link](https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore | C# | .Net | |
+| MusicStore (ASP.NET) | [link](https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore) | C# | .Net | |
 | Netflix microservices with Spring and Eureka | [link](https://github.com/yidongnan/spring-cloud-netflix-example) | Java | Spring | |
 | Photo uploader (NGINX Fabric Model) | [link](https://github.com/nginxinc/mra-ingenious) | Ruby | | |
 | Piggy Metrics | [link](https://github.com/sqshq/PiggyMetrics) | Java | Spring | |
