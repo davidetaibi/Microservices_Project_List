@@ -37,6 +37,7 @@ You can send recommendations for new projects making a pull request to this page
 | Freddy’s bbq joint (Pivotal SSO, Spring Cloud) | https://github.com/william-tran/freddys-bbq | Java | Spring | |
 | Generic Online Shop (service-based patterns experiment) (Java): | https://github.com/xJREB/research-modifiability-pattern-experiment | Java | JavaEE | |
 | Graph Processing | https://github.com/kbastani/spring-boot-graph-processing-example | Java | Spring | |
+| Hipster Shop | https://github.com/GoogleCloudPlatform/microservices-demo | Java, Node.js, C#, Python, GO |  | |
 | Kenzan Song Library | https://goo.gl/iCxaJE | | | |
 | Lakeside Mutual Insurance Company (API patterns example) | https://github.com/Microservice-API-Patterns/LakesideMutual | Java, Javascript | Spring, nodejs | |
 | Micro company (Spring Cloud, Axon) | https://github.com/idugalic/micro-company | Java | Spring | |
