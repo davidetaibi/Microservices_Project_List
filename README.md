@@ -38,7 +38,7 @@ You can send recommendations for new projects making a pull request to this page
 | FTGO - Restaurant Management |  [link](https://github.com/microservices-patterns/ftgo-application) | Java | Spring (Saga Pattern) | 6+API-Gatweay|
 | Generic Online Shop (service-based patterns experiment) (Java): | [link](https://github.com/xJREB/research-modifiability-pattern-experiment) | Java | JavaEE | |
 | Graph Processing | [link](https://github.com/kbastani/spring-boot-graph-processing-example) | Java | Spring | |
-| Kenzan Song Library | [link](https://goo.gl/iCxaJE) | | | |
+| Kenzan Million Song Library | [link](https://github.com/TheDigitalNinja/million-song-library) |Java | | 7 |
 | Lakeside Mutual Insurance Company (API patterns example) | [link](https://github.com/Microservice-API-Patterns/LakesideMutual) | Java, Javascript | Spring, nodejs | |
 | Micro company (Spring Cloud, Axon) | [link](https://github.com/idugalic/micro-company) | Java | Spring | |
 | Microblog: | [link](https://github.com/senecajs/ramanujan) | Javascript | nodejs | |
