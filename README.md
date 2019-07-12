@@ -38,6 +38,7 @@ You can send recommendations for new projects making a pull request to this page
 | FTGO - Restaurant Management |  [link](https://github.com/microservices-patterns/ftgo-application) | Java | Spring (Saga Pattern) | 6+API-Gatweay|
 | Generic Online Shop (service-based patterns experiment) (Java): | [link](https://github.com/xJREB/research-modifiability-pattern-experiment) | Java | JavaEE | |
 | Graph Processing | [link](https://github.com/kbastani/spring-boot-graph-processing-example) | Java | Spring | |
+| Hipster Shop | [link](https://github.com/GoogleCloudPlatform/microservices-demo) | Java, Node.js, C#, Python, GO |  | |
 | Kenzan Million Song Library | [link](https://github.com/TheDigitalNinja/million-song-library) |Java | | 7 |
 | Lakeside Mutual Insurance Company (API patterns example) | [link](https://github.com/Microservice-API-Patterns/LakesideMutual) | Java, Javascript | Spring, nodejs | |
 | Micro company (Spring Cloud, Axon) | [link](https://github.com/idugalic/micro-company) | Java | Spring | |
@@ -72,6 +73,8 @@ You can send recommendations for new projects making a pull request to this page
 | Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
 | WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
 
+
+
 ## "Industrial" Projects created from scratch with a microservices architectural style
 
 * OpenEBS www.openEBS.io
@@ -88,7 +91,7 @@ You can send recommendations for new projects making a pull request to this page
 
 ## Projects that migrated from monolithic to microservces 
 
-Still looking for something like this... 
+Still looking for... 
 
 ## Acknowledgements 
 This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7]. I  like to thank all the participants to the discussions and all theauthors of the papers that contributed to populate this list. 
