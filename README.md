@@ -27,6 +27,7 @@ You can send recommendations for new projects making a pull request to this page
 | Blog post (Spring Boot) | [link](https://github.com/fernandoabcampos/spring-netflix-oss-microservices) | Java | Spring | |
 | CAS Microservice (Portuguese) | [link](https://github.com/ArcanjoQueiroz/cas-microservice-architecture) | Java | Spring | |
 | Cinema Administration: | [link](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b) | Javascript | nodejs | |
+| Cloud Native Strangler Example | [link](https://github.com/kbastani/cloud-native-microservice-strangler-example) | Java | Spring | |
 | DDD Sample Application: | [link](https://sourceforge.net/projects/dddsample)  | Java | | |
 | Delivery system | [link](https://github.com/matt-slater/delivery-system) | Java, Javascript | Spring, Angular2 | |
 | E-Commerce App | [link](https://github.com/venkataravuri/e-commerce-microservices-sample) | Java | Spring | |
@@ -48,7 +49,6 @@ You can send recommendations for new projects making a pull request to this page
 | Microservices Reference for Azure | [link](https://github.com/mspnp/microservices-reference-implementation) | C# | .Net | |
 | Microservices with Consul and Eureka (Chinese) | [link](https://github.com/bishion/microService) | Java | Spring | |
 | Movie recommendation | [link](https://github.com/mdeket/spring-cloud-movie-recommendation) | Java | Spring | |
-| Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
 | Music Store: | [link](https://github.com/aspnet/MusicStore) | | | |
 | MusicStore (ASP.NET) | [link](https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore) | C# | .Net | |
 | Netflix microservices with Spring and Eureka | [link](https://github.com/yidongnan/spring-cloud-netflix-example) | Java | Spring | |
@@ -74,6 +74,12 @@ You can send recommendations for new projects making a pull request to this page
 | WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
 
 
+## Not Available anymore
+Removed from GitHub
+
+| Name  | Link | Languages | Framework | Number of microservices 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
 
 ## "Industrial" Projects created from scratch with a microservices architectural style
 
