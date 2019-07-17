@@ -60,7 +60,7 @@ You can send recommendations for new projects making a pull request to this page
 | Share bike (Chinese) | [link](https://github.com/JoeCao/qbike) | Java | Spring | |
 | SiteWhere | [link](https://github.com/sitewhere/sitewhere) | Java | Spring | |
 | Sock Shop | [link](https://github.com/microservices-demo) | Java, Javascript, Golang | Spring, nodejs, Go kit | |
-| Spring Cloud Microservice Example: | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
+| Spring Cloud Microservice Example: | [link](https://github.com/zpng/spring-cloud-microservice-examples) | Java | Spring | |
 | Spring PetClinic | [link](https://github.com/spring-petclinic/spring-petclinic-microservices) | Java | Spring | |
 | Spring Petclinic Migration to AWS | [link](https://github.com/aws-samples/amazon-ecs-java-microservices) | Java | Spring | |
 | Spring Petclinic: | [link](https://github.com/spring-petclinic) | Java | Spring | |
