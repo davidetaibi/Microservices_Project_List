@@ -47,7 +47,6 @@ You can send recommendations for new projects making a pull request to this page
 | Microservices Reference for Azure | https://github.com/mspnp/microservices-reference-implementation | C# | .Net | |
 | Microservice Kubernetes Sample | https://github.com/ewolff/microservice-kubernetes | Java | Spring | |
 | Microservices with Consul and Eureka (Chinese) | https://github.com/bishion/microService | Java | Spring | |
-| Movie recommendation | https://github.com/mdeket/spring-cloud-movie-recommendation | Java | Spring | |
 | Movie recommendation system (Spring Cloud) | https://github.com/kbastani/spring-cloud-microservice-example | Java | Spring | |
 | Music Store: | https://github.com/aspnet/MusicStore | | | |
 | MusicStore (ASP.NET) | https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore | C# | .Net | |
