@@ -74,57 +74,6 @@ You can send recommendations for new projects making a pull request to this page
 | Vehicle tracking | https://github.com/mohamed-abdo/vehicle-tracking-microservices | C# | .Net | |
 | Warehouse microservice | https://github.com/HieJulia/warehouse-microservice | Java | Spring | |
 | WeText (DDD, CQRS, C#) | https://github.com/daxnet/we-text | C# | .Net | |
-| ACME Air: | [link](https://github.com/acmeair/) | Javascript | nodejs | |
-| Beer catalog (Spring Boot) | [link](https://github.com/oktadeveloper/spring-boot-microservices-example) | Java | Spring | |
-| Blog post (Spring Boot) | [link](https://github.com/fernandoabcampos/spring-netflix-oss-microservices) | Java | Spring | |
-| CAS Microservice (Portuguese) | [link](https://github.com/ArcanjoQueiroz/cas-microservice-architecture) | Java | Spring | |
-| Cinema Administration: | [link](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b) | Javascript | nodejs | |
-| Cloud Native Strangler Example | [link](https://github.com/kbastani/cloud-native-microservice-strangler-example) | Java | Spring | |
-| DDD Sample Application: | [link](https://sourceforge.net/projects/dddsample)  | Java | | |
-| Delivery system | [link](https://github.com/matt-slater/delivery-system) | Java, Javascript | Spring, Angular2 | |
-| E-Commerce App | [link](https://github.com/venkataravuri/e-commerce-microservices-sample) | Java | Spring | |
-| Eberhard Wolff's 11 Demo Systems | [link](https://ewolff.com/microservices-demos.html) | Java | Spring | |
-| EnterprisePlanner (ASP.NET) | [link](https://github.com/gfawcett22/EnterprisePlanner) | C# | .Net | |
-| eShop on Containers (.NET) | [link](https://github.com/dotnet-architecture/eShopOnContainers) | C# | .Net | |
-| eShop on Containers: | [link](https://github.com/dotnet-architecture/eShopOnContainers) | C# | .Net | |
-| Freddy’s bbq joint (Pivotal SSO, Spring Cloud) | [link](https://github.com/william-tran/freddys-bbq) | Java | Spring | |
-| FTGO - Restaurant Management |  [link](https://github.com/microservices-patterns/ftgo-application) | Java | Spring (Saga Pattern) | 6+API-Gatweay|
-| Generic Online Shop (service-based patterns experiment) (Java): | [link](https://github.com/xJREB/research-modifiability-pattern-experiment) | Java | JavaEE | |
-| Graph Processing | [link](https://github.com/kbastani/spring-boot-graph-processing-example) | Java | Spring | |
-| Hipster Shop | [link](https://github.com/GoogleCloudPlatform/microservices-demo) | Java, Node.js, C#, Python, GO |  | |
-| Kenzan Million Song Library | [link](https://github.com/TheDigitalNinja/million-song-library) |Java | | 7 |
-| Lakeside Mutual Insurance Company (API patterns example) | [link](https://github.com/Microservice-API-Patterns/LakesideMutual) | Java, Javascript | Spring, nodejs | |
-| Micro company (Spring Cloud, Axon) | [link](https://github.com/idugalic/micro-company) | Java | Spring | |
-| Microblog: | [link](https://github.com/senecajs/ramanujan) | Javascript | nodejs | |
-| microService | [link](https://github.com/bishion/microService) | Java | Spring | |
-| Microservices book | [link](https://github.com/ewolff/microservice) | Java | Spring | |
-| Microservices Reference for Azure | [link](https://github.com/mspnp/microservices-reference-implementation) | C# | .Net | |
-| Microservices with Consul and Eureka (Chinese) | [link](https://github.com/bishion/microService) | Java | Spring | |
-| Movie recommendation | [link](https://github.com/mdeket/spring-cloud-movie-recommendation) | Java | Spring | |
-| Music Store: | [link](https://github.com/aspnet/MusicStore) | | | |
-| MusicStore (ASP.NET) | [link](https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore) | C# | .Net | |
-| Netflix microservices with Spring and Eureka | [link](https://github.com/yidongnan/spring-cloud-netflix-example) | Java | Spring | |
-| Photo uploader (NGINX Fabric Model) | [link](https://github.com/nginxinc/mra-ingenious) | Ruby | | |
-| Piggy Metrics | [link](https://github.com/sqshq/PiggyMetrics) | Java | Spring | |
-| Pitstop (DDD, CQRS, Event Sourcing) | [link](https://github.com/EdwinVW/pitstop) | C# | .Net | |
-| Robot Shop | [link](https://github.com/instana/robot-shop) | Javascript, Java, Python, Golang, PHP | | |
-| Service Commerce | [link](https://github.com/antonio94js/servicecommerce) | Javascript | nodejs, Studio.js | |
-| Share bike (Chinese) | [link](https://github.com/JoeCao/qbike) | Java | Spring | |
-| SiteWhere | [link](https://github.com/sitewhere/sitewhere) | Java | Spring | |
-| Sock Shop | [link](https://github.com/microservices-demo) | Java, Javascript, Golang | Spring, nodejs, Go kit | |
-| Spring Cloud Microservice Example: | [link](https://github.com/zpng/spring-cloud-microservice-examples) | Java | Spring | |
-| Spring PetClinic | [link](https://github.com/spring-petclinic/spring-petclinic-microservices) | Java | Spring | |
-| Spring Petclinic Migration to AWS | [link](https://github.com/aws-samples/amazon-ecs-java-microservices) | Java | Spring | |
-| Spring Petclinic: | [link](https://github.com/spring-petclinic) | Java | Spring | |
-| SpringBoot Microservices: | [link](https://github.com/oktadeveloper/spring-boot-microservices-example) | Java | Spring | |
-| Steeltoe Music Store: | [link](https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore) | C# | .Net | |
-| Tap-And-Eat (Spring Cloud) | [link](https://github.com/jferrater/Tap-And-Eat-MicroServices) | Java | Spring | 8 |
-| Task track support (Chinese) | [link](https://github.com/yun19830206/CloudShop-MicroService-Architecture) | Java | Spring | |
-| Tea Store: | [link](https://github.com/DescartesResearch/TeaStore/wiki) | Java | JavaEE | |
-| Vehicle tracking | [link](https://github.com/mohamed-abdo/vehicle-tracking-microservices) | C# | .Net | |
-| Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
-| WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
-
 
 ## Not Available anymore
 Removed from GitHub
