@@ -77,7 +77,6 @@ You can send recommendations for new projects making a pull request to this page
 | Vehicle tracking | [link](https://github.com/mohamed-abdo/vehicle-tracking-microservices) | C# | .Net | |
 | Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
 | WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
-| Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | |
 
 
 ## Not Available anymore
