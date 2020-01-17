@@ -78,15 +78,16 @@ You can send recommendations for new projects making a pull request to this page
 | Vehicle tracking | [link](https://github.com/mohamed-abdo/vehicle-tracking-microservices) | C# | .Net | |
 | Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
 | WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
-| Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | |
+
 
 
 ## Not Available anymore
 Removed from GitHub
 
-| Name  | Link | Languages | Framework | Number of microservices
+| Name  | Link | Languages | Framework | Notes
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
+| Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | Not OpenSource Anymore |
 
 ## "Industrial" Projects created from scratch with a microservices architectural style
 
