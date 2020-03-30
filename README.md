@@ -15,6 +15,18 @@ I am still  looking for a real legacy project (5-10 years old) where I can study
 Feel free to contribute suggesting other projects.
 You can send recommendations for new projects making a pull request to this page, or sending an email to davide [dot] taibi [at] tuni [dot] fi
 
+## How To Reference this Dataset
+
+Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A curated Dataset of Microservices-Based Systems" Joint Proceedings of the Inforte Summer School on Software Maintenance and Evolution. CEUR-WS, vol. 2520, pp.1-9. Tampere, Finland. 2019
+
+```@inProceedings{Rahman2019ACD,
+  title={A curated Dataset of Microservices-Based Systems},
+  author={Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide},
+  booktitle={Joint Proceedings of the Inforte Summer School on Software Maintenance and Evolution}, 
+  publisher = {CEUR-WS},
+  year={2019},
+  volume={Vol-2520},
+}```
 
 
 ## Demo/Toy  Projects, mainly for learning purpose
