@@ -1,5 +1,14 @@
 #  A curated list of Open Source projects developed with a microservices architectural style
 
+## Table of Contents
+* **[Introduction](#Introduction)**
+* **[How to Reference this dataset](#How-To-Reference-this-Dataset)
+* **[Demo and Toy Projects](#demotoy--projects-mainly-for-learning-purpose)
+* **[Projects not available anymore]
+* **[Industrial or production-ready projects](#industrial-projects-created-from-scratch-with-a-microservices-architectural-style)
+
+
+## Introduction
 After several questions opened in Quora[4,5,6], StackOverflow [2,3], ResearchGate [1], I decided to report the list of projects that migrated to microservices or that are implemented from scratch with a microservice architectural style.
 In our previous work, we investigated several microservices issues, including migration issues[10], architectural patterns[9],  and bad smells or antipatterns[8]. The availability of a common data-set of projects implemented with a microservice architectural style, would be very useful to validate our results, but also to anyone who need to learn how to develop microservices-based applications or to researchers that want to study how these systems are architected.
 
@@ -118,10 +127,10 @@ Removed from GitHub
 
 ## Projects that migrated from monolithic to microservces
 
-Still looking for...
+Still looking for... Please, contact us (davide [dot] taibi [at] tuni [dot] fi, in case you know any project. 
 
 ## Acknowledgements
-This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7]. I  like to thank all the participants to the discussions and all theauthors of the papers that contributed to populate this list.
+This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7], and of several pull requests submitted buy different authors. I'd like to thank all the participants to the discussions and all the authors of the papers that contributed to populate this list.
 
 
 ## References
