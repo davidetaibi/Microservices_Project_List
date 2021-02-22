@@ -2,10 +2,12 @@
 
 ## Table of Contents
 * **[Introduction](#Introduction)**
-* **[How to Reference this dataset](#How-To-Reference-this-Dataset)
-* **[Demo and Toy Projects](#demotoy--projects-mainly-for-learning-purpose)
-* **[Projects not available anymore]
+* **[How to Reference this dataset](#How-To-Reference-this-Dataset)**
+* **[Demo and Toy Projects](#demotoy--projects-mainly-for-learning-purpose)**
+* **[Projects not available anymore](#Not-Available-anymore)
 * **[Industrial or production-ready projects](#industrial-projects-created-from-scratch-with-a-microservices-architectural-style)
+* **[Acknowledgements](#Acknowledgements)**
+* **[References](#References)**
 
 
 ## Introduction
