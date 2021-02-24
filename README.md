@@ -5,7 +5,7 @@
 * **[How to Reference this dataset](#How-To-Reference-this-Dataset)**
 * **[Demo and Toy Projects](#demotoy--projects-mainly-for-learning-purpose)**
 * **[Projects not available anymore](https://github.com/davidetaibi/Microservices_Project_List#not-available-anymore)**
-* **[Industrial or production-ready projects](https://github.com/davidetaibi/Microservices_Project_List#industrial-projects-created-from-scratch-with-a-microservices-architectural-style)**
+* **[Industrial or production-ready projects](https://github.com/davidetaibi/Microservices_Project_List#industrial-or-production-ready-projects)**
 * **[Acknowledgements](#Acknowledgements)**
 * **[References](#References)**
 
