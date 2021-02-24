@@ -99,6 +99,7 @@ Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A cura
 | Tap-And-Eat (Spring Cloud) | [link](https://github.com/jferrater/Tap-And-Eat-MicroServices) | Java | Spring | 8 |
 | Task track support (Chinese) | [link](https://github.com/yun19830206/CloudShop-MicroService-Architecture) | Java | Spring | |
 | Tea Store: | [link](https://github.com/DescartesResearch/TeaStore/wiki) | Java | JavaEE | |
+| Train Ticket | [link](https://github.com/FudanSELab/train-ticket/) | Java, Node.js., Python, Go | Spring Cloud, Express, Django, Webgo | > 50 |
 | Vanilla-Java/Microservices | [link](https://github.com/Vanilla-Java/Microservices) | Java| | |
 | Vehicle tracking | [link](https://github.com/mohamed-abdo/vehicle-tracking-microservices) | C# | .Net | |
 | Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
