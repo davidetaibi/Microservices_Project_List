@@ -96,6 +96,8 @@ Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A cura
 | Spring Petclinic Migration to AWS | [link](https://github.com/aws-samples/amazon-ecs-java-microservices) | Java | Spring | |
 | SpringBoot Microservices: | [link](https://github.com/oktadeveloper/spring-boot-microservices-example) | Java | Spring | |
 | SpringBoot Microservices Blog Series: | [link](https://github.com/sivaprasadreddy/spring-boot-microservices-series) | Java | Spring | |
+| StaffJoy V1 (Abandoned) : [link](https://github.com/Staffjoy/V2) | | | 
+| StaffJoy V2 : [link](https://github.com/LandRover/StaffjoyV2) | | | 
 | Tap-And-Eat (Spring Cloud) | [link](https://github.com/jferrater/Tap-And-Eat-MicroServices) | Java | Spring | 8 |
 | Task track support (Chinese) | [link](https://github.com/yun19830206/CloudShop-MicroService-Architecture) | Java | Spring | |
 | Tea Store: | [link](https://github.com/DescartesResearch/TeaStore/wiki) | Java | JavaEE | |
@@ -115,13 +117,12 @@ Removed from GitHub
 | Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
 | Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | Not OpenSource Anymore |
 
-## "Industrial" Projects created from scratch with a microservices architectural style
+## "Industrial" or Production-Ready Projects created from scratch with a microservices architectural style
 
 * OpenEBS www.openEBS.io
 * Spinnaker https://www.spinnaker.io
 * Open-loyalty https://github.com/DivanteLtd/open-loyalty
 * Sentry https://github.com/getsentry
-* Staffjoy https://github.com/Staffjoy/v2 (abandoned)
 * Gizmo (Microservice Toolkit from The New York Times) https://github.com/nytimes/gizmo
 * Genie (Netflix Distributed Big Data Orchestration Service https://github.com/Netflix/genie
 * Lelylan - Open Source Internet of Things https://github.com/lelylan
