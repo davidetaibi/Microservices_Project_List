@@ -41,7 +41,9 @@ Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A cura
 ```
 
 
-## Demo/Toy  Projects, mainly for learning purpose
+## Demo/Toy  Projects, mainly for learning or research purpose
+This list includes projects of different sizes, from very small ones, to relatively large ones (e.g.  Train Ticket | [link](https://github.com/FudanSELab/train-ticket/) 
+This projects, are not  for production use. 
 
 
 | Name  | Link | Languages | Framework | Number of microservices
@@ -117,7 +119,7 @@ Removed from GitHub
 | Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
 | Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | Not OpenSource Anymore |
 
-## "Industrial" or Production-Ready Projects created from scratch with a microservices architectural style
+## Industrial or Production-Ready Projects 
 
 * OpenEBS www.openEBS.io
 * Spinnaker https://www.spinnaker.io
@@ -130,9 +132,6 @@ Removed from GitHub
 * Magda (A platform built to power a new generation of data portals) https://github.com/magda-io/magda
 * Apollo (configuration management system) https://github.com/ctripcorp/apollo
 
-## Projects that migrated from monolithic to microservces
-
-Still looking for... Please, contact us (davide [dot] taibi [at] tuni [dot] fi, in case you know any project. 
 
 ## Acknowledgements
 This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7], and of several pull requests submitted buy different authors. I'd like to thank all the participants to the discussions and all the authors of the papers that contributed to populate this list.
