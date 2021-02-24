@@ -57,6 +57,7 @@ Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A cura
 | Delivery system | [link](https://github.com/matt-slater/delivery-system) | Java, Javascript | Spring, Angular2 | |
 | Digota - ecommerce microservice | [link](https://github.com/digota/digota)  | Go | | |
 | E-Commerce App | [link](https://github.com/venkataravuri/e-commerce-microservices-sample) | Java | Spring | |
+| ExplorViz | [link](https://github.com/ExplorViz) | Javascript/Typescript | | 8 |
 | Eberhard Wolff's 11 Demo Systems | [link](https://ewolff.com/microservices-demos.html) | Java | Spring | |
 | EnterprisePlanner (ASP.NET) | [link](https://github.com/gfawcett22/EnterprisePlanner) | C# | .Net | |
 | eShop on Containers: | [link](https://github.com/dotnet-architecture/eShopOnContainers) | C# | .Net | |
