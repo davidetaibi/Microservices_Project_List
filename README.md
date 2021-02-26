@@ -48,8 +48,9 @@ Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A cura
 
 
 ## Demo/Toy  Projects, mainly for learning or research purpose
-This list includes projects of different sizes, from very small ones, to relatively large ones (e.g.  Train Ticket | [link](https://github.com/FudanSELab/train-ticket/) 
-This projects, are not  for production use. 
+This list includes projects of different sizes, from very small ones, to relatively large ones (e.g.  Train Ticket | [link](https://github.com/FudanSELab/train-ticket/) )
+
+This projects, are not ready for production. 
 
 
 | Name  | Link | Languages | Framework | Number of microservices
