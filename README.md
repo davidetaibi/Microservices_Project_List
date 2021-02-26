@@ -3,9 +3,10 @@
 ## Table of Contents
 * **[Introduction](#Introduction)**
 * **[How to Reference this dataset](#How-To-Reference-this-Dataset)**
-* **[Demo and Toy Projects](#demotoy--projects-mainly-for-learning-purpose)**
-* **[Projects not available anymore](https://github.com/davidetaibi/Microservices_Project_List#not-available-anymore)**
-* **[Industrial or production-ready projects](https://github.com/davidetaibi/Microservices_Project_List#industrial-or-production-ready-projects)**
+* Projects
+  * **[Demo and Toy Projects](https://github.com/davidetaibi/Microservices_Project_List/blob/master/README.md#demotoy--projects-mainly-for-learning-or-research-purpose)**
+  * **[Industrial or production-ready projects](https://github.com/davidetaibi/Microservices_Project_List#industrial-or-production-ready-projects)**
+  * **[Projects not available anymore](https://github.com/davidetaibi/Microservices_Project_List#not-available-anymore)**
 * **[Acknowledgements](#Acknowledgements)**
 * **[References](#References)**
 
