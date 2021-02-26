@@ -122,7 +122,7 @@ Removed from GitHub
 
 | Name  | Link | Languages | Framework | Notes
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Movie recommendation system (Spring Cloud) | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring | |
+| Movie recommendation system  | [link](https://github.com/kbastani/spring-cloud-microservice-example) | Java | Spring Cloud | |
 | Airport management| [link](https://github.com/sergeivisotsky/airport-management) | Java | Spring Boot | Not OpenSource Anymore |
 
 ## Industrial or Production-Ready Projects 
