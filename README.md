@@ -28,6 +28,11 @@ You can send recommendations for new projects making a pull request to this page
 
 ## How To Reference this Dataset
 
+This is the extended version of the [Microservice Dataset V1](https://github.com/clowee/MicroserviceDataset/blob/master/README.md). 
+
+Please cite as Microservice Dataset, Extended Version [1]"
+
+[1] Mohammad Imranur Rahman, Sebastiano Panichella, Davide Taibi. A curated Dataset of Microservices-Based Systems. Joint Proceedings of the Summer School on Software Maintenance and Evolution. Tampere, 2019
 Rahman, Mohammad Imranur  and Panichella, Sebastiano and  Taibi, Davide. "A curated Dataset of Microservices-Based Systems" Joint Proceedings of the Inforte Summer School on Software Maintenance and Evolution. CEUR-WS, vol. 2520, pp.1-9. Tampere, Finland. 2019
 
 ```@inProceedings{Rahman2019ACD,
