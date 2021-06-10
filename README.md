@@ -58,6 +58,7 @@ This projects, are not ready for production.
 | ACME Air: | [link](https://github.com/acmeair/) | Javascript | nodejs | |
 | Beer catalog (Spring Boot) | [link](https://github.com/oktadeveloper/spring-boot-microservices-example) | Java | Spring | |
 | Blog post (Spring Boot) | [link](https://github.com/fernandoabcampos/spring-netflix-oss-microservices) | Java | Spring | |
+| Bootstrapping Microservices with Docker, Kubernetes, and Terraform | [link](https://www.oreilly.com/library/view/bootstrapping-microservices-with/9781617297212/) | Javascript | nodejs | |
 | CAS Microservice (Portuguese) | [link](https://github.com/ArcanjoQueiroz/cas-microservice-architecture) | Java | Spring | |
 | Cinema Administration: | [link](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b) | Javascript | nodejs | |
 | CQRS microservice application: | [link](https://github.com/benwilcock/cqrs-microservice-sampler)  | Java | Spring Boot, Spring Cloud and Axon | |
