@@ -138,6 +138,7 @@ Removed from GitHub
 * SiteWhere (IoT Application Enablement Platform) https://github.com/sitewhere/sitewhere
 * Magda (A platform built to power a new generation of data portals) https://github.com/magda-io/magda
 * Apollo (configuration management system) https://github.com/ctripcorp/apollo
+* Metadata provider (Helps to build a metadata driven UI from a single REST endpoint) https://github.com/sergeivisotsky/metadata-provider
 
 
 ## Acknowledgements
