@@ -139,8 +139,6 @@ Removed from GitHub
 * SiteWhere (IoT Application Enablement Platform) https://github.com/sitewhere/sitewhere
 * Magda (A platform built to power a new generation of data portals) https://github.com/magda-io/magda
 * Apollo (configuration management system) https://github.com/ctripcorp/apollo
-* Metadata provider (Helps to build a metadata driven UI from a single REST endpoint) https://github.com/sergeivisotsky/metadata-provider
-
 
 ## Acknowledgements
 This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7], and of several pull requests submitted buy different authors. I'd like to thank all the participants to the discussions and all the authors of the papers that contributed to populate this list.
