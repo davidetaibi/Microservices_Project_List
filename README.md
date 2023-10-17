@@ -116,6 +116,7 @@ This projects, are not ready for production.
 | Vehicle tracking | [link](https://github.com/mohamed-abdo/vehicle-tracking-microservices) | C# | .Net | |
 | Warehouse microservice | [link](https://github.com/HieJulia/warehouse-microservice) | Java | Spring | |
 | WeText (DDD, CQRS, C#) | [link](https://github.com/daxnet/we-text) | C# | .Net | |
+| Yet Another Shop (Yas) | [link](https://github.com/nashtech-garage/yas) | Java | Spring Boot, Next.js, Keycloak, Debezium, Elasticsearch, Kafka, Eventuate Tram Sagas, OpenTelemetry | >20 |
 
 
 
