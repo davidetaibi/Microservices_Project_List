@@ -141,7 +141,7 @@ Removed from GitHub
 * Apollo (configuration management system) https://github.com/ctripcorp/apollo
 
 ## Acknowledgements
-This list is based on the feedbacks received in the different platforms [1][2][3][4][5][6] and on the list of microservices-based projects listed in scientific papers[7], and of several pull requests submitted buy different authors. I'd like to thank all the participants to the discussions and all the authors of the papers that contributed to populate this list.
+This list is based on the feedback received from various platforms [1][2][3][4][5][6], as well as on the list of microservices-based projects mentioned in scientific papers [7] and several pull requests submitted by different authors. I'd like to thank all the participants in the discussions and all the authors of the papers who contributed to populating this list.
 
 
 ## References
