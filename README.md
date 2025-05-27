@@ -1,5 +1,12 @@
 #  A curated list of Open Source projects developed with a microservices architectural style
 
+This dataset has been replaced by the new version 
+
+Dario Amoroso d'Aragona, Alexander Bakhtin, Xiaozhou Li, Ruoyu Su, Lauren Adams, Ernesto Aponte, Francis Boyle, Patrick Boyle, Rachel Koerner, Joseph Lee, Fangchao Tian, Yuqing Wang, Jesse Nyyssölä, Ernesto Quevedo, Shahidur Md Rahaman, Amr S. Abdelfattah, Mika Mäntylä, Tomas Cerny, and Davide Taibi. 2024. A Dataset of Microservices-based Open-Source Projects. In Proceedings of the 21st International Conference on Mining Software Repositories (MSR '24). Association for Computing Machinery, New York, NY, USA, 504–509. https://doi.org/10.1145/3643991.3644890
+
+
+
+
 ## Table of Contents
 * **[Introduction](#Introduction)**
 * **[How to Reference this dataset](#How-To-Reference-this-Dataset)**
